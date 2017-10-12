@@ -25,7 +25,7 @@ import javax.swing.JFrame;
 import javax.swing.UIManager;
 
 /**
- *
+ * starter class
  * @author nick
  */
 public class FlashTranslator {
