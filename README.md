@@ -1,4 +1,4 @@
-#FlashTranslator
+# FlashTranslator
 
 A Flash file(swf) Translator made in Java using the [transform library of com.flagstone](http://www.flagstonesoftware.com/transform/index.html).
 
